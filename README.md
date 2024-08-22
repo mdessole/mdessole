@@ -10,7 +10,7 @@
 
 C • C++ • Python • CUDA • SYCL • [perf](https://perf.wiki.kernel.org/index.php/Main_Page) 
 
-## Where to find me
+## Reach me
 
 - on my personal website, [mdessole.github.io](https://mdessole.github.io)
 - [LinkedIn](https://www.linkedin.com/in/mdessole/)
