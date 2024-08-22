@@ -1,5 +1,21 @@
-## Hi there 👋
+# Monica Dessole, PhD
 
+## Projects
+
+- I'm currently working on speeding up [ROOT](https://github.com/root-project/root) by leveraging on GPGPUs
+- as part of the [SYCLOPS project](https://www.syclops.org), I develop sustainable and multi-platform data analytics frameworks via SYCL 
+- most of my past work consisted in designing and implementing high-performance linear algebra core operations, such as QR decomposition for rank deficient matrices, least squares minimizers for quadratic problems with contraints, and parallel preconditioning techniques for CFD problems
+
+## Languages and tools
+
+C • C++ • Python • CUDA • SYCL • [perf](https://perf.wiki.kernel.org/index.php/Main_Page) 
+
+## Where to find me
+
+- on my personal website, [mdessole.github.io](https://mdessole.github.io)
+- [LinkedIn](https://www.linkedin.com/in/mdessole/)
+- [GitHub](https://github.com/mdessole)
+- 
 <!--
 **mdessole/mdessole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
