@@ -15,7 +15,7 @@ C • C++ • Python • CUDA • SYCL • [perf](https://perf.wiki.kernel.org/i
 - on my personal website, [mdessole.github.io](https://mdessole.github.io)
 - [LinkedIn](https://www.linkedin.com/in/mdessole/)
 - [GitHub](https://github.com/mdessole)
-- 
+  
 <!--
 **mdessole/mdessole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
