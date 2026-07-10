@@ -8,7 +8,7 @@
 
 ## Languages and tools 🛠️
 
-C • C++ • Python • CUDA • SYCL • [perf](https://perf.wiki.kernel.org/index.php/Main_Page) 
+C • C++ • Python • CUDA • SYCL • MPI
 
 ## Reach me ✉️
 
