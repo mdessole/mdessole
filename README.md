@@ -2,8 +2,8 @@
 
 ## Projects 💻🚀
 
-- I'm currently working on speeding up the [ROOT library](https://github.com/root-project/root) by leveraging on GPGPUs
-- as part of the [SYCLOPS project](https://www.syclops.org), I develop sustainable and multi-platform data analytic frameworks via SYCL 
+- I'm currently working on a multi-gpu framework for a 3d finite difference underwater acoustic solver 
+- I develop sustainable and multi-platform high-energy physics analytic frameworks via SYCL  as part of the [ROOT team](https://github.com/root-project/root) within the [SYCLOPS project](https://www.syclops.org)
 - most of my past work consisted in designing and implementing high-performance linear algebra core operations, such as QR decomposition for rank deficient matrices, least squares minimizers for quadratic problems with contraints, and parallel preconditioning techniques for CFD problems
 
 ## Languages and tools 🛠️
